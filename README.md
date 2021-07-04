@@ -3,4 +3,4 @@ The idea behind this application is to display statistics of the impact of COVID
 
 ## Technical Overview
 This is a full-stack application which runs react.js in front-end and node.js in the back-end.
-<img src="WhatsApp Image 2021-07-04 at 16.51.26.jpeg"/>
+<img src="ss.jpeg"/>
